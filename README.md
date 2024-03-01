@@ -13,7 +13,7 @@ hosts seeking to optimize revenue and guests aiming to find the perfect blend
 of value and experience in their accommodations.
 
 
-**Dataset**
+**Dataset:**
 The dataset utilized in this project is sourced from the research study,
 "Determinants of Airbnb prices in European cities: A spatial econometrics
 approach"
